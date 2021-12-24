@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ucamp-app-restaurant.git/static/css/main.073c9b0a.css",
+    "main.js": "/Ucamp-app-restaurant.git/static/js/main.1eaee1c3.js",
+    "static/js/787.1ea29350.chunk.js": "/Ucamp-app-restaurant.git/static/js/787.1ea29350.chunk.js",
+    "static/media/logo.svg": "/Ucamp-app-restaurant.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Ucamp-app-restaurant.git/index.html",
+    "main.073c9b0a.css.map": "/Ucamp-app-restaurant.git/static/css/main.073c9b0a.css.map",
+    "main.1eaee1c3.js.map": "/Ucamp-app-restaurant.git/static/js/main.1eaee1c3.js.map",
+    "787.1ea29350.chunk.js.map": "/Ucamp-app-restaurant.git/static/js/787.1ea29350.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1eaee1c3.js"
+  ]
+}
